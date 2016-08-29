@@ -29,10 +29,7 @@
     "mongoose"
   ],
   "dependencies": {
-    "bignum": "~0.6.1"
-  },
-  "peerDependencies": {
-    "mongoose": ">= 3.5.0 < 4"
+    "bignum": "0.12.5"
   },
   "license": "MIT"
 }
